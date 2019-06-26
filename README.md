@@ -24,7 +24,7 @@ Please follow instructions in init.txt to initialise any new mind-reading algori
 
 See instructions on running below
 
-**Important:** Eliminate interference once you have got the algorithm working with 4*4000 breasonings for it working: ['texttobr2'].  texttobr2(64). and eliminating any instances of interference with 250 breasonings: texttobr2(2). (2) for dotting on and doing it.
+ **Important:** Eliminate interference once you have got the algorithm working with 4*4000 breasonings for it working: ['texttobr2'].  texttobr2(64). and eliminating any instances of interference with 250 breasonings: texttobr2(2). (2) for dotting on and doing it.
 
 Additional instructions for preparing to run screen projector:
 Breason out songs used to help project pixels.
