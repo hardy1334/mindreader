@@ -62,8 +62,8 @@ We will use SemVer for versioning.
 
 # Authors
 
-Lucian Green - Initial programmer - Lucian Academy
+Lucian Green - Initial programmer - <a href="https://www.lucianacademy.com/">Lucian Academy</a>
 
 # License
 
-I licensed this project under the BSD3 License - see the LICENSE.md file for details
+I licensed this project under the BSD3 License - see the <a href="LICENSE">LICENSE.md</a> file for details
